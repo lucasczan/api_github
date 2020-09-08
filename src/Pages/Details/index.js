@@ -22,7 +22,9 @@ const Details = () => {
         <div className="row">
           <div className="col-12 col-lg-6">
             <div className="avatar">
-              {data && <img src={data?.owner.avatar_url} alt="" />}
+              {data && (
+                <img src={data?.owner.avatar_url} alt="Avatar de perfil" />
+              )}
               {!data && <CircularProgress data-testid="progress" size={150} />}
             </div>
           </div>
@@ -38,7 +40,7 @@ const Details = () => {
                 </h2>
               </div>
               <div className="col-12 mt-2 text-mobile-center">
-                <p>{data?.description}</p>
+                <p>{data?.description}</p>0
               </div>
             </div>
           </div>

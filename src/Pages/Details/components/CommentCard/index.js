@@ -7,7 +7,11 @@ const CommentCard = ({ comment }) => {
     <Container className="col-12 p-3">
       <div className="row">
         <div className="col-12 col-lg-4 p-4 d-flex justify-content-center">
-          <img src={comment.user?.avatar_url} alt="avatar" className="avatar" />
+          <img
+            src={comment.user?.avatar_url}
+            alt="Avatar do comentário"
+            className="avatar"
+          />
         </div>
         <div className="col-12 col-lg-8">
           <div className="row">
