@@ -14,7 +14,7 @@ Projeto criado consumindo api do github utilizando swr para cache dos dados e me
   <li>Swr Vercel</li>
   <li>Axios</li>
   <li>Jest</li>
-  <li>Yarn</li>
+  <li>Moment Js</li>
 </ul>
 
 1- Baixar dependências: 
