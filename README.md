@@ -11,6 +11,8 @@ Projeto criado consumindo api do github utilizando swr para cache dos dados e me
 <ul>
   <li>React</li>
   <li>Styled Components</li>
+  <li>Bootstrap 4</li>
+  <li>Material UI</li>
   <li>Swr Vercel</li>
   <li>Axios</li>
   <li>Jest</li>
