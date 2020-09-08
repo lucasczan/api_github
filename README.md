@@ -1,11 +1,12 @@
 
 ## Github API
 
-<img src="./src/assets/img/Home.JPG" widt="100%">
+<img src="./src/assets/img/Home.JPG" width="70%">
+
 
 Projeto criado consumindo api do github utilizando swr para cache dos dados e melhor experiência de navegação do usuario.
 
-<h2> Tecnologias utilizadas: </h2>
+<h2> 👨🏻‍💻 Tecnologias utilizadas:  </h2>
 
 <ul>
   <li>React</li>
